@@ -1,0 +1,162 @@
+.text-color{
+  color:white;
+}
+
+body {
+  background-color: #f0f0f0; 
+  background-image: url("/assets/img/otros/fondo.jpg");
+  background-repeat:round; 
+  background-position: center center; 
+  background-attachment: fixed; 
+  background-size:auto; 
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Verdana', sans-serif;
+  background-color: #fef9f4;
+  color: #f5f4f4;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+p {
+  color: rgb(199, 243, 199);
+}
+
+.barra {  color: black;
+ }
+
+h2 title
+ {
+  color: white;
+}
+
+header {
+  background-color: #20c997;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+
+nav {
+  background-color: #bd0981;
+  padding: 15px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  }
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  
+}
+
+nav a:hover {
+  color: #eebe00;
+}
+
+
+.nav-item a {
+  color: #10ac84;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  
+}
+
+.nav-item a:hover {
+  color: #eebe00;
+}
+
+main {
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 1px;
+  margin: 1px;
+  
+}
+
+main a {
+  color:  #54a0ff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight:normal;
+ 
+}
+
+main a:hover {
+  color: #f3c303;
+}
+
+.jumbotron {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+}
+
+.col-md-3 {
+  background-color: #face3f;
+}
+
+
+
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #20c997;
+}
+
+
+.form-group {
+  width: 100%; 
+}
+
+.form-control {
+  width: 100%;
+  box-sizing: border-box; 
+  resize: vertical; 
+  padding: 10px;
+  border: 1px solid #ccc; 
+}
+
+table {
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  margin-top: 15px;
+  padding: 15px;
+  background-color: #000000;
+  color: #fff;
+  border-radius: 8px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  }
+
+footer a:hover {
+  color: #f8c805;
+}
+
